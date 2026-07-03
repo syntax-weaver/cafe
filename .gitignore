@@ -1,0 +1,15 @@
+# Logs
+storage/logs/
+
+# User uploads
+storage/uploads/
+
+# DB credentials
+app/config/db_credentials.php
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
