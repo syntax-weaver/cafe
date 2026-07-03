@@ -87,6 +87,8 @@ views/
 
 public/
 
+storage/
+
 ```
 
 ---

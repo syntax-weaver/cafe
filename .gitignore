@@ -1,8 +1,10 @@
 # Logs
-storage/logs/
+storage/logs/*
+!storage/logs/.gitkeep
 
 # User uploads
-storage/uploads/
+storage/uploads/*
+!storage/uploads/.gitkeep
 
 # DB credentials
 app/config/db_credentials.php
